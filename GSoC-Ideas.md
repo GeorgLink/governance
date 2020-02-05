@@ -1,4 +1,4 @@
-# Ideas for Google Summer of Code projects
+# Ideas for Google Summer of Code project
 
 ## Idea: Machine Learning for Anomaly Detection in Open Source Communities
 
